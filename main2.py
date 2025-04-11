@@ -10,3 +10,7 @@ print('Result:', num1 / num2)
 print('Result:', num1 * num2)
 print('Result:', num1 ** num2)
 print('Result:', num1 // num2)
+print('Result:', num1 // num2)
+print('Result:', num1 // num2)
+print('Result:', num1 // num2)
+
