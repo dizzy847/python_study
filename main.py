@@ -25,3 +25,4 @@ print(number + int(str_num))
 print(word + str(number + int(str_num)))
 del number
 
+
