@@ -13,7 +13,7 @@
 # bool True or False
 # float числа с точкой
 # string любые слова
-number = 5 # int
+number = 5  # int
 digit = -4.44545
 word = 'Резльтат:'
 boolean = False
