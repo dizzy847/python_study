@@ -15,7 +15,7 @@
 # string любые слова
 number = 5  # int
 digit = -4.44545
-word = 'Резльтат:'
+word = 'Результат:'
 boolean = False
 
 str_num = '5'
@@ -24,5 +24,4 @@ str_num = '5'
 print(number + int(str_num))
 print(word + str(number + int(str_num)))
 del number
-
 
