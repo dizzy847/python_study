@@ -1,6 +1,11 @@
 # for i in range(1, 6, 2):
 #     print(i)
+
 # Вывод 1 3 5s
+
+# Вывод 1 3 5
+
+
 
 # count = 0
 # word = 'Hello world!'
@@ -48,6 +53,12 @@ numbers.sort()
 # numbers.remove(True) удаляет написанный элемент
 # numbers.clear() удаление всего списка
 
+
 # count находит сколько элементов в списке
 # len находит сколько всего элементов
 print(numbers)
+
+# count находит сколько повторяющихся элементов в списке
+# len находит сколько всего элементов
+print(numbers)
+
